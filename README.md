@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # ⚖️ LexPilot
 
@@ -126,7 +126,7 @@ Turn time entries into professional invoices.
 
 ```bash
 # Clone
-git clone https://github.com/m-shamim09/Legal-Assistant-Agent-with-MCP
+git clone https://github.com/agentic-saim09/Legal-Assistant-Agent-with-MCP
 cd "MCP LEGAL ASSISTANT AGENT"
 
 # Setup environment
@@ -427,7 +427,7 @@ We welcome contributions!
 
 ```bash
 # Fork and clone
-git clone https://github.com/m-shamim09/Legal-Assistant-Agent-with-MCP
+git clone https://github.com/agentic-saim09/Legal-Assistant-Agent-with-MCP
 cd "MCP LEGAL ASSISTANT AGENT"
 
 # Create branch
@@ -463,8 +463,8 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 ## 📞 Support
 
-**Documentation:** [GitHub Wiki](https://github.com/m-shamim09/Legal-Assistant-Agent-with-MCP)  
-**Issues:** [GitHub Issues](https://github.com/m-shamim09/Legal-Assistant-Agent-with-MCP)  
+**Documentation:** [GitHub Wiki](https://github.com/agentic-saim09/Legal-Assistant-Agent-with-MCP)  
+**Issues:** [GitHub Issues](https://github.com/agentic-saim09/Legal-Assistant-Agent-with-MCP)  
 **Email:** agentic.ai.engineer@example.com
 
 ---
@@ -491,8 +491,8 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
